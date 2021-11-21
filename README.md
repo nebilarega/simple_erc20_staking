@@ -4,7 +4,7 @@
 
 ## what are the things needed
 
-    1. Implement stakeing token (ERC20)
+    1. Implement staking token (ERC20)
     2. Keep record of the stakeholders
     3. Creating and removing stakes
     4. A rewards system
